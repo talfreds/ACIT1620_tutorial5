@@ -1,0 +1,61 @@
+#display    {
+    width:100vw;
+    height:100vh;
+    position: fixed;
+    left:0px;
+    top:0px;
+    background-color:orange;
+    z-index:-1;
+    cursor:auto;
+}
+
+#controls   {
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    height:100px;
+    width:100vw;
+    background-color:crimson;
+}
+
+
+#stickers   {
+    width:70%;
+    height:100%;
+    position:absolute;
+    left:0px;
+    top:0px;
+    background-color:darksalmon;
+    overflow: none;
+    
+}
+
+#inputs {
+    position:absolute;
+    right:0px;
+    top:0px;
+    width:30%;
+    height:100%;
+    background-color:firebrick;
+}
+
+#bgcolor {
+    margin:10px;
+}
+
+.stickers   {
+    height:90%;
+    margin:1%;
+}
+
+.displayStickers    {
+    height: 100px;
+    width: auto;
+    position:absolute;
+    
+}
+
+#cursor {
+    position:fixed;
+    height:50px;
+}
