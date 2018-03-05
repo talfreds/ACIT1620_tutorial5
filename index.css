@@ -58,4 +58,5 @@
 #cursor {
     position:fixed;
     height:50px;
+    z-index:5000;
 }
